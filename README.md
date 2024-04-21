@@ -1,6 +1,6 @@
 # Login App
 
-![Login App Preview](login_app_preview.png)
+![Icon](app/src/main/res/drawable/login_app_icon.png)
 
 ## Description
 Login App Android is a simple login application that demonstrates different login methods, including email, phone number, and Google sign-in. After successful authentication, the user's information is displayed on the main screen.
