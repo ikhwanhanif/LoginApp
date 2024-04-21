@@ -31,5 +31,5 @@ Login App Android is a simple login application that demonstrates different logi
 Contributions and suggestions for improvement are always welcome. If you would like to contribute to this project, please create a pull request.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.txt).
 
