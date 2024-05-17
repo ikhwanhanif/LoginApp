@@ -1,6 +1,6 @@
 # Login App
 
-![Icon](app/src/main/res/drawable/login_app_icon.png)
+<img width="100" alt="icon-Login" src="app/src/main/res/drawable/login_app_icon.png">
 
 ## Description
 Login App Android is a simple login application that demonstrates different login methods, including email, phone number, and Google sign-in. After successful authentication, the user's information is displayed on the main screen.
@@ -25,7 +25,7 @@ Login App Android is a simple login application that demonstrates different logi
 4. Upon successful login, your information will be displayed on the main screen.
 
 ## Screenshot
-![ikhwan hanif loginapp](https://github.com/ikhwanhanif/LoginApp/assets/108711453/4c1f348e-26c3-4eb3-8a3f-05328665d4a5)
+<img width="200" alt="sc-Login" src="https://github.com/ikhwanhanif/LoginApp/assets/108711453/4c1f348e-26c3-4eb3-8a3f-05328665d4a5">
 
 ## Contribution
 Contributions and suggestions for improvement are always welcome. If you would like to contribute to this project, please create a pull request.
